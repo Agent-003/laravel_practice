@@ -84,11 +84,11 @@
                     <div class="title m-b-md">
                         Homework 10
                     </div>
-
                     <div class="links">
                         <a href="{{ url('/about') }}">About</a>
                         <a href="{{ url('/contact') }}">Contact</a>
                         <a href="{{ url('/profile') }}">Profile</a>
+                        <a href="{{ url('/insipire') }}">Inspaire</a>
                     </div>
                 </div>
             </div>
